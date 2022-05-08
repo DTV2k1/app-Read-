@@ -1,2 +1,2 @@
 # app-Read-Android Studio
-File nén
+FILE NÉN VÀ FILE BÁO CÁO CODE 
